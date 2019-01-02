@@ -1,0 +1,18 @@
+/*Comentario
+ *de
+ *parrafo
+ */
+#include <stdio.h>
+const int PI = 3.1416:
+//Metodo mostrar
+int mostrar()
+{
+      printf("Hola mundo \n")
+}
+/*Metodo main*/
+void main()
+{
+     mostrar():
+     if ( PI > 2 * PI )
+         printf("Mala cosa \n")
+}
