@@ -1,0 +1,8 @@
+Entrada:
+(,,(,));
+
+Salida:
+La altura es 3.00
+La raiz se llama 
+El numero de hojas es 4
+

@@ -1,0 +1,8 @@
+Entrada:
+(a,a);
+
+Salida:
+La altura es 2.00
+La raiz se llama 
+El numero de hojas es 2
+

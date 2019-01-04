@@ -1,0 +1,8 @@
+Entrada:
+((a,a)j:8,((a,b),(:89,b,c))a,((a,b),(,b)),b)tyr;
+
+Salida:
+La altura es 92.00
+La raiz se llama tyr
+El numero de hojas es 12
+

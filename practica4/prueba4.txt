@@ -1,0 +1,8 @@
+Entrada:
+((B:0.2,(C:0.3,D:0.4)E:0.5)A:0.1)F; 
+
+Salida:
+La altura es 2.00
+La raiz se llama F
+El numero de hojas es 3
+
